@@ -109,7 +109,7 @@ class _ContactPageState extends State<ContactPage> {
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(5))
                   ),
-                  child: Text('Add', style: TextStyle(color: Colors.white),)),
+                  child: Text('Add ', style: TextStyle(color: Colors.white),)),
             ),
             SizedBox(height: 8,),
             Expanded(
